@@ -1,3 +1,25 @@
-h1 {
-    color: brown;
+body {
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+
+.fst-sec {
+    background-image: url(images/donation9.jpg);
+    background-repeat: no-repeat;
+}
+
+.top {
+    text-align: justify;
+    margin: 50px;
+}
+
+.top h1 {
+    font-size: 90px;
+    color: white;
+}
+
+.top p {
+    font-size: 30px;
+    color: white;
 }
