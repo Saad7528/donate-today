@@ -5,21 +5,40 @@ body {
 }
 
 .fst-sec {
-    background-image: url(images/donation9.jpg);
+    background-image: url(images/donation99.jpg);
     background-repeat: no-repeat;
+    margin-top: 0px;
+    background-size: cover;
+    height: 1000px;
+
 }
 
 .top {
-    text-align: justify;
-    margin: 50px;
+    text-align: center;
+    padding: 200px 400px;
 }
 
 .top h1 {
     font-size: 90px;
     color: white;
+    margin-bottom: 0px;
+    text-shadow: 10px 10px 10px black;
 }
 
 .top p {
     font-size: 30px;
+    padding: 0px 150px;
     color: white;
+    text-shadow: 10px 10px 10px black;
+
+}
+
+.link-button {
+    text-decoration: none;
+    padding: 23px 33px;
+    color: white;
+    font-size: 30px;
+    width: 10px;
+    background-color: rgb(235, 113, 43);
+    border-radius: 10px;
 }
