@@ -39,7 +39,7 @@ body {
     color: white;
     font-size: 30px;
     width: 10px;
-    background-color: rgb(235, 113, 43);
+    background-color: #e63f19;
     border-radius: 10px;
 }
 
@@ -67,32 +67,49 @@ body {
 
 .flex {
     display: flex;
-    margin: 0px 280px;
+    margin: 0px 407px 80px;
 
 }
 
 .tk-box {
     background: rgb(248, 245, 245);
-    height: 137px;
-    width: 154px;
+    height: 131px;
+    width: 164px;
     color: rgb(94, 92, 92);
-    font-size: 30px;
+    font-size: 25px;
     text-align: center;
     border-radius: 9px;
-    padding: 30px;
-    margin: 40px;
+    padding: 11px;
+    margin: 27px;
 }
 
 .tk-box200 {
     background: rgb(244 228 228);
-    height: 137px;
-    width: 154px;
+    height: 131px;
+    width: 164px;
     color: #F3512b;
     font-size: 30px;
     text-align: center;
     border: 5px solid #F3512b;
-    border-radius: 6px;
-    padding: 30px;
-    margin: 40px;
+    border-radius: 9px;
+    padding: 11px;
+    margin: 27px;
 
 }
+
+.snd-last {
+    text-align: center;
+
+}
+
+.snd-last p {
+    color: lightgray;
+    margin-bottom: 0px;
+}
+
+.hr {
+    margin-top: 0px;
+    color: rgb(248, 243, 243);
+}
+
+.snd-button {}
