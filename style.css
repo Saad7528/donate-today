@@ -42,3 +42,57 @@ body {
     background-color: rgb(235, 113, 43);
     border-radius: 10px;
 }
+
+.snd-sec {}
+
+.snd-sec h1 {
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 65px;
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 0px;
+
+
+}
+
+.snd-sec p {
+    font-size: 27px;
+    text-align: center;
+    color: gray;
+    margin-top: 0;
+    margin-left: 600px;
+    margin-right: 600px;
+    margin-bottom: ;
+}
+
+.flex {
+    display: flex;
+    margin: 0px 280px;
+
+}
+
+.tk-box {
+    background: rgb(248, 245, 245);
+    height: 137px;
+    width: 154px;
+    color: rgb(94, 92, 92);
+    font-size: 30px;
+    text-align: center;
+    border-radius: 9px;
+    padding: 30px;
+    margin: 40px;
+}
+
+.tk-box200 {
+    background: rgb(244 228 228);
+    height: 137px;
+    width: 154px;
+    color: #F3512b;
+    font-size: 30px;
+    text-align: center;
+    border: 5px solid #F3512b;
+    border-radius: 6px;
+    padding: 30px;
+    margin: 40px;
+
+}
