@@ -194,14 +194,17 @@ body {
 }
 
 .footer {
-    height: 450px;
+    padding: 13px;
+    text-align: center;
+    height: 303px;
     width: auto;
     background: black;
+
 }
 
 .footer h2 {
     font-size: 50px;
-    color: wheat;
+    color: rgb(204, 197, 183);
 }
 
 .footer p {
