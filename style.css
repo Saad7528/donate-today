@@ -147,3 +147,64 @@ body {
 .b3 {
     background-color: rgb(250, 253, 233);
 }
+
+.pre-gmail h1 {
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 65px;
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 20px;
+}
+
+.pre-gmail p {
+    font-size: 27px;
+    text-align: center;
+    color: gray;
+    margin-top: 0;
+    margin-left: 600px;
+    margin-right: 600px;
+    margin-bottom: 100px;
+}
+
+.gmail {
+    margin: 0px 574px;
+    margin-bottom: 200px;
+}
+
+.gmail input {
+    height: 55px;
+    width: 649px;
+    font-size: 30px;
+    text-align: center;
+    background: lightgray;
+    border-radius: 5px 0px 0px 5px;
+}
+
+.gmail a {
+    height: 55px;
+    color: white;
+    text-decoration: none;
+    width: 649px;
+    font-size: 28px;
+    text-align: center;
+    background: #F3512b;
+    padding: 11px;
+    margin-left: -5px;
+    border-radius: 0px 5px 5px 0px;
+}
+
+.footer {
+    height: 450px;
+    width: auto;
+    background: black;
+}
+
+.footer h2 {
+    font-size: 50px;
+    color: wheat;
+}
+
+.footer p {
+    font-size: 30px;
+    color: wheat;
+}
